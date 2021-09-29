@@ -1,0 +1,7 @@
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\CollectionInterfaces-Demo\CollectionInterfaces\CollectionInterfaces\bin\Debug\CollectionInterfaces.exe.config
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\CollectionInterfaces-Demo\CollectionInterfaces\CollectionInterfaces\bin\Debug\CollectionInterfaces.exe
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\CollectionInterfaces-Demo\CollectionInterfaces\CollectionInterfaces\bin\Debug\CollectionInterfaces.pdb
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\CollectionInterfaces-Demo\CollectionInterfaces\CollectionInterfaces\obj\Debug\CollectionInterfaces.csprojAssemblyReference.cache
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\CollectionInterfaces-Demo\CollectionInterfaces\CollectionInterfaces\obj\Debug\CollectionInterfaces.csproj.CoreCompileInputs.cache
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\CollectionInterfaces-Demo\CollectionInterfaces\CollectionInterfaces\obj\Debug\CollectionInterfaces.exe
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\CollectionInterfaces-Demo\CollectionInterfaces\CollectionInterfaces\obj\Debug\CollectionInterfaces.pdb
